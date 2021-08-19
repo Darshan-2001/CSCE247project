@@ -1,0 +1,25 @@
+[{
+  "firstName" : "Shaq",
+  "lastName" : "Sloan",
+  "userName" : "stsloan",
+  "password" : "dip1121",
+  "id" : 1,
+  "phoneNum" : "843-338-2786",
+  "isAdmin" : true
+}, {
+  "firstName" : "Kenneth",
+  "lastName" : "Ackerman",
+  "userName" : "krackerman",
+  "password" : "idek66",
+  "id" : 2,
+  "phoneNum" : "619-619-6789",
+  "isAdmin" : false
+}, {
+  "firstName" : "You",
+  "lastName" : "Pick",
+  "userName" : "subwaysub",
+  "password" : "footlong123",
+  "id" : 3,
+  "phoneNum" : "906-118-8914",
+  "isAdmin" : true
+}]

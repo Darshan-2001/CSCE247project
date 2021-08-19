@@ -1,0 +1,31 @@
+[{
+  "author" : "stsloan",
+  "id" : 1,
+  "location" : "England",
+  "city" : "London",
+  "zipCode" : 16846,
+  "typeOfCase" : "Murder",
+  "weapon" : "Knife",
+  "story" : "Body was found. The throat was found the be cut prior to abdominal mutilations. Victim seems to have had their internal organs removed.",
+  "criminals" : [1],
+  "victims" : [1],
+  "suspects" : [1],
+  "witnesses" : [1, 2],
+  "evidence" : [1, 2],
+  "assignedUser" : [1]
+}, {
+  "author" : "stsloan",
+  "id" : 2,
+  "location" : "New York",
+  "city" : "New York City",
+  "zipCode" : 11212,
+  "typeOfCase" : "Theft",
+  "weapon" : "Gun",
+  "story" : "Victim was walking down the street when she was attacked by a group of gangsters. They told her to give them money or they would kill her.",
+  "criminals" : [2],
+  "victims" : [2],
+  "suspects" : [2],
+  "witnesses" : [2],
+  "evidence" : [2],
+  "assignedUser" : [2]
+}]

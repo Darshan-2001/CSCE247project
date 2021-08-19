@@ -1,0 +1,33 @@
+[{
+  "firstName" : "Fred",
+  "lastName" : "Jones",
+  "id" : 1,
+  "age" : 17,
+  "gender" : "Male",
+  "occupation" : "Detective",
+  "phoneNum" : "777-892-1972",
+  "desc" : "Caucasian, about 5'11, blonde hair, black eyes",
+  "isAlive" : true,
+  "numCrimes" : 0,
+  "height" : "5'11",
+  "weight" : "175 lbs",
+  "hairColor" : "blonde hair",
+  "eyeColor" : "black eyes",
+  "tattoos" : "none"
+}, {
+  "firstName" : "Johnny",
+  "lastName" : "Bravo",
+  "id" : 2,
+  "age" : 25,
+  "gender" : "Male",
+  "occupation" : "Unemployed",
+  "phoneNum" : "291-392-9985",
+  "desc" : "Caucasian, about 6'3, blonde hair, always wears black glasses",
+  "isAlive" : true,
+  "numCrimes" : 0, 
+  "height" : "6'3",
+  "weight" : "210 lbs",
+  "hairColor" : "blonde hair",
+  "eyeColor" : "unknown",
+  "tattoos" : "none" 
+}]

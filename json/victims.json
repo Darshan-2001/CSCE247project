@@ -1,0 +1,21 @@
+[{
+  "firstName" : "Mary",
+  "lastName" : "Jane",
+  "id" : 1,
+  "age" : 27,
+  "gender" : "Female",
+  "occupation" : "Journalist",
+  "phoneNum" : "518-278-1492",
+  "desc" : "Caucasian, about 5'3, red hair, green eyes",
+  "isAlive" : false
+}, {
+  "firstName" : "Lois",
+  "lastName" : "Lane",
+  "id" : 2,
+  "age" : 21,
+  "gender" : "Female",
+  "occupation" : "Journalist",
+  "phoneNum" : "876-184-9903",
+  "desc" : "Caucasian, about 5'6, black hair, green eyes",
+  "isAlive" : true
+}]
